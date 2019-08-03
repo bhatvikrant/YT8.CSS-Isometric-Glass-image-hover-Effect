@@ -35,7 +35,7 @@ body{
     width: 20px;
     background: #e4e4e4;
     box-sizing: border-box;
-    border-top: 80px solid #ad3c3c;
+    border-top: 75px solid #BE5127;
     transform-origin: right;
     transform: skewY(-58deg); 
 }
